@@ -1,6 +1,6 @@
 [project]
 name = "geonode-scraper-langchain"
-version = "0.4.2"
+version = "0.4.3"
 description = "Give LangChain agents native Geonode web scraping tools to extract pages, search the web, discover URLs and manage crawl or batch jobs."
 authors = [
   {name = "Geonode Team"},
