@@ -17,4 +17,4 @@ Tests use mocked services and the published `geonode-scraper-tools-core` depende
 
 Report package bugs with the package version, minimal reproduction and sanitized output. For API/account help, [contact Geonode](https://geonode.com/contact). Report vulnerabilities through [SECURITY.md](SECURITY.md), never in an issue.
 
-Read [source provenance](docs/source-provenance.md) and [release migration](docs/release-migration.md) before changing release infrastructure. Contributions use the [MIT license](LICENSE).
+Maintainers publish releases with the `Publish` workflow in GitHub Actions. Contributions use the [MIT license](LICENSE).

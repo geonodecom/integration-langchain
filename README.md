@@ -116,7 +116,7 @@ These recipes describe source-supported workflows. They have not been run as aut
 
 ## Development and support
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for local checks and [release migration](docs/release-migration.md) for the current publishing boundary. Publishing remains in the existing SDK monorepo until a coordinated cutover.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for local checks and releases.
 
 For API or account questions, [contact Geonode](https://geonode.com/contact). For security issues, follow [SECURITY.md](SECURITY.md). Licensed under [MIT](LICENSE).
 
