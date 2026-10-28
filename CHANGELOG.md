@@ -6,6 +6,8 @@ The format is inspired by Keep a Changelog.
 
 ## [Unreleased]
 
+## [0.4.3] - 2026-10-28
+
 - Removed the internal repository preparation notes and links to the old monorepo.
 
 - Docs links point to the package's page at https://docs.geonode.com/docs/scraper-api/guides/sdks/langchain.

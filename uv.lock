@@ -367,7 +367,7 @@ wheels = [
 
 [[package]]
 name = "geonode-scraper-langchain"
-version = "0.4.2"
+version = "0.4.3"
 source = { editable = "." }
 dependencies = [
     { name = "geonode-scraper-tools-core" },
