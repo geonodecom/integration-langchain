@@ -1,6 +1,6 @@
 # Geonode Scraper tools for LangChain
 
-[Integrations page](https://geonode.com/integrations) · [Geonode API docs](https://docs.geonode.com/docs/scraper-api) · [GitHub source](https://github.com/geonodecom/integration-langchain) · [LangChain setup guide](https://docs.geonode.com/docs/scraper-api/guides/sdks/langchain) · [Published package](https://pypi.org/project/geonode-scraper-langchain/) · [Repository overview](../README.md)
+[Integrations page](https://geonode.com/integrations/integration-langchain) · [Geonode API docs](https://docs.geonode.com/docs/scraper-api) · [GitHub source](https://github.com/geonodecom/integration-langchain) · [LangChain setup guide](https://docs.geonode.com/docs/scraper-api/guides/sdks/langchain) · [Published package](https://pypi.org/project/geonode-scraper-langchain/) · [Repository overview](../README.md)
 
 **[Try Geonode for free](https://app.geonode.com/sign-up)**
 

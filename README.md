@@ -6,7 +6,7 @@ Give your LangChain agents web search and page content for research and retrieva
 
 **[Try Geonode for free](https://app.geonode.com/sign-up)**
 
-[Integrations page](https://geonode.com/integrations) · [Geonode API docs](https://docs.geonode.com/docs/scraper-api) · [LangChain setup guide](https://docs.geonode.com/docs/scraper-api/guides/sdks/langchain) · [View package on PyPI](https://pypi.org/project/geonode-scraper-langchain/) · [View source on GitHub](https://github.com/geonodecom/integration-langchain) · [Complete guide](docs/guide.md)
+[Integrations page](https://geonode.com/integrations/integration-langchain) · [Geonode API docs](https://docs.geonode.com/docs/scraper-api) · [LangChain setup guide](https://docs.geonode.com/docs/scraper-api/guides/sdks/langchain) · [View package on PyPI](https://pypi.org/project/geonode-scraper-langchain/) · [View source on GitHub](https://github.com/geonodecom/integration-langchain) · [Complete guide](docs/guide.md)
 
 <!-- BEGIN README NAV -->
 [Quick start](#quick-start) · [Available operations](#available-operations) · [Example: a research workflow in LangChain](#example-a-research-workflow-in-langchain) · [Setup questions](#setup-questions)

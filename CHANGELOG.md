@@ -6,6 +6,8 @@ The format is inspired by Keep a Changelog.
 
 ## [Unreleased]
 
+- The integrations page link and package homepage point to this integration's own page.
+
 ## [0.4.3] - 2026-10-28
 
 - Removed the internal repository preparation notes and links to the old monorepo.
