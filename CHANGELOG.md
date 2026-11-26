@@ -8,7 +8,7 @@ The format is inspired by Keep a Changelog.
 
 ## [0.5.0] - 2026-11-26
 
-- Requires `geonode-scraper-tools-core` 0.6.0 or newer. Its job list tools no longer take the `url` and `query` filters, which the API rejects, and it works with `geonode-scraper-sdk` 0.7.0. With an older tools-core and that SDK, every job list tool fails.
+- Requires `geonode-scraper-tools-core` 0.6.0 or newer. Its job list tools no longer take the `url` and `query` filters, which the API rejects, and it works with `geonode-scraper-sdk` 0.7.0. With an older tools-core and that SDK, the extract, crawl, map and search job list tools fail; the batch one is not affected.
 - The integrations page link and package homepage point to this integration's own page.
 
 ## [0.4.3] - 2026-10-28
