@@ -367,7 +367,7 @@ wheels = [
 
 [[package]]
 name = "geonode-scraper-langchain"
-version = "0.4.3"
+version = "0.5.0"
 source = { editable = "." }
 dependencies = [
     { name = "geonode-scraper-tools-core" },
@@ -383,7 +383,7 @@ dev = [
 
 [package.metadata]
 requires-dist = [
-    { name = "geonode-scraper-tools-core", specifier = ">=0.5.0" },
+    { name = "geonode-scraper-tools-core", specifier = ">=0.6.0" },
     { name = "langchain-core", specifier = ">=1.0" },
     { name = "pytest", marker = "extra == 'dev'", specifier = ">=8.0" },
     { name = "pytest-cov", marker = "extra == 'dev'", specifier = ">=5.0" },
@@ -393,7 +393,7 @@ provides-extras = ["dev"]
 
 [[package]]
 name = "geonode-scraper-sdk"
-version = "0.6.1"
+version = "0.7.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "pydantic" },
@@ -401,23 +401,23 @@ dependencies = [
     { name = "typing-extensions" },
     { name = "urllib3" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/03/37/7c275a477477a424e7299aa924cbef02b8b97bcdbfebffcf2599f6f36958/geonode_scraper_sdk-0.6.1.tar.gz", hash = "sha256:6146d4040c228facc315512d97277f53daf3418ae7c4a7037f7f9c9165a58a9a", size = 61228, upload-time = "2026-10-21T08:56:33.692Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/89/78/242fca880330086c74c2f40909d8c006aa5ffdd6e8130b63715ca7d2bdb8/geonode_scraper_sdk-0.7.0.tar.gz", hash = "sha256:9a633873d2bb3a35ff4ce1c15d1a4bf39f501a2fc5e7558751397b78b0d98da3", size = 135030, upload-time = "2026-11-26T07:53:25.671Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/7b/d8/657a1a3caf0cff0007e2c1b25fe817ba75e6f847390383d6c1b94b18e84b/geonode_scraper_sdk-0.6.1-py3-none-any.whl", hash = "sha256:1b4a7ba484f7396684dfb4ad893d04691b58a862b09546b587b8678b702df67e", size = 154922, upload-time = "2026-10-21T08:56:31.59Z" },
+    { url = "https://files.pythonhosted.org/packages/46/19/2ca20f639f4cd3f9f5e8d7151af8a067a5aab476aa0cb428375bddf0b6e2/geonode_scraper_sdk-0.7.0-py3-none-any.whl", hash = "sha256:fcb8f41814b5ad9d06fd5edf5b2d08d1a42311ca6e282797424e8938c44f19d9", size = 179343, upload-time = "2026-11-26T07:53:24.17Z" },
 ]
 
 [[package]]
 name = "geonode-scraper-tools-core"
-version = "0.5.1"
+version = "0.6.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "geonode-scraper-sdk" },
     { name = "pydantic" },
     { name = "typing-extensions" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/ed/d0/abb565f3f9f74c6ed83b897eb5bfd75004350415aeb322bc86ff021fd40c/geonode_scraper_tools_core-0.5.1.tar.gz", hash = "sha256:c14e05308f8e0c2b44c4149bce1b4ff15a43193c9bc111b04b991d6575a5c843", size = 14281, upload-time = "2026-10-21T08:58:22.513Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/20/cd/0e748be50a10700ed6f362378dd68da934c85eba31cba68054ebe821e775/geonode_scraper_tools_core-0.6.0.tar.gz", hash = "sha256:1ee8260798dbe9a783803fe9fa952e744749fb7fa4be2cd9444c15c80f4b359c", size = 14746, upload-time = "2026-11-25T17:44:18.747Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/d3/34/bd453b55fca4c280b1a64b86cdc5896d77c7afc36621f50bde594489047a/geonode_scraper_tools_core-0.5.1-py3-none-any.whl", hash = "sha256:b48f3d9c47ecbdcb46112774111d8db08ef894779693e3677c6747534baa571b", size = 11706, upload-time = "2026-10-21T08:58:21.37Z" },
+    { url = "https://files.pythonhosted.org/packages/5b/0f/be9ae795439c889ecc7430938f5f25f1ad6494321d63d524622e4f3484a6/geonode_scraper_tools_core-0.6.0-py3-none-any.whl", hash = "sha256:4b22f50c7533ce1885979f366a6f0dd277355fa52bd20a14e69a22b3773029dd", size = 11640, upload-time = "2026-11-25T17:44:17.757Z" },
 ]
 
 [[package]]
