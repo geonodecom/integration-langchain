@@ -1,6 +1,6 @@
 [project]
 name = "geonode-scraper-langchain"
-version = "0.4.3"
+version = "0.5.0"
 description = "Give LangChain agents native Geonode web scraping tools to extract pages, search the web, discover URLs and manage crawl or batch jobs."
 authors = [
   {name = "Geonode Team"},
@@ -15,7 +15,7 @@ classifiers = [
   "Typing :: Typed",
 ]
 dependencies = [
-  "geonode-scraper-tools-core>=0.5.0",
+  "geonode-scraper-tools-core>=0.6.0",
   "langchain-core>=1.0",
 ]
 
